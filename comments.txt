@@ -1,0 +1,74 @@
+/* 1 */
+{
+    "_id" : ObjectId("616ecb34f39c23625c3711e1"),
+    "comment" : "Veoma lepa majica",
+    "date" : "Thu Jul 01 2021 00:00:00 GMT+0200 (Средњеевропско летње време)",
+    "id_item" : "6126ca518becd718dc30acdb",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "stars" : "4"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("616ecb34f39c23625c3711e4"),
+    "comment" : "Lepa majica",
+    "date" : "Thu Jul 01 2021 00:00:00 GMT+0200 (Средњеевропско летње време)",
+    "id_item" : "6126ca518becd718dc30acdb",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "stars" : 4
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("616ecb34f39c23625c3711e7"),
+    "comment" : "Veoma lepa majica",
+    "date" : "Thu Jul 01 2021 00:00:00 GMT+0200 (Средњеевропско летње време)",
+    "id_item" : "6126ca518becd718dc30acdb",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "stars" : "4"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("616eee07172a6e74bcbe6d5e"),
+    "comment" : "Proba",
+    "date" : ISODate("2021-10-19T16:10:47.489Z"),
+    "stars" : 5,
+    "id_item" : "6126ca518becd718dc30acdb",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "_class" : "com.example.onlinebutik.entity.Comment"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("616ef5e34b1a0419d91ec218"),
+    "comment" : "Proba",
+    "date" : ISODate("2021-10-19T16:44:19.034Z"),
+    "stars" : 5,
+    "id_item" : "6126cb0e8becd718dc30ad22",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "_class" : "com.example.onlinebutik.entity.Comment"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("616ef5ef4b1a0419d91ec219"),
+    "comment" : "Proba",
+    "date" : ISODate("2021-10-19T16:44:31.120Z"),
+    "stars" : 5,
+    "id_item" : "6126cb508becd718dc30ad3b",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "_class" : "com.example.onlinebutik.entity.Comment"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("6177c28e2aeedf2e6442f38f"),
+    "comment" : "Test",
+    "date" : ISODate("2021-10-26T08:55:42.004Z"),
+    "stars" : 5,
+    "id_item" : "6126ca518becd718dc30acdb",
+    "user_email" : "ivana.ivanovic.18@singimail.rs",
+    "_class" : "com.example.onlinebutik.entity.Comment"
+}
+

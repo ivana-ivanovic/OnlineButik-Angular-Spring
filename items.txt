@@ -1,0 +1,197 @@
+/* 1 */
+{
+    "_id" : ObjectId("6126ca518becd718dc30acdb"),
+    "name" : "Zenska majca 1",
+    "image" : "./assets/images/zm1.JPG",
+    "category" : "woman",
+    "type" : "tshirt",
+    "amount" : [ 
+        {
+            "name" : "L",
+            "amount" : 0
+        }, 
+        {
+            "name" : "M",
+            "amount" : 82
+        }, 
+        {
+            "name" : "S",
+            "amount" : 71
+        }, 
+        {
+            "name" : "XL",
+            "amount" : 96
+        }
+    ],
+    "stars" : 4.4,
+    "price" : 800.0,
+    "description" : "Pamucna majca",
+    "country" : "Srbija",
+    "slug" : "zenska-majca-1",
+    "_class" : "com.example.onlinebutik.entity.Items"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("6126cac88becd718dc30ad0b"),
+    "name" : "Zenska majca 2",
+    "image" : "./assets/images/zm2.JPG",
+    "category" : "woman",
+    "type" : "tshirt",
+    "amount" : [ 
+        {
+            "name" : "L",
+            "amount" : 67
+        }, 
+        {
+            "name" : "M",
+            "amount" : 82
+        }, 
+        {
+            "name" : "S",
+            "amount" : 80
+        }, 
+        {
+            "name" : "XL",
+            "amount" : 96
+        }
+    ],
+    "stars" : 1.83333333333333,
+    "price" : 800.0,
+    "description" : "Pamucna majca",
+    "country" : "Srbija",
+    "slug" : "zenska-majca-2",
+    "_class" : "com.example.onlinebutik.entity.Items"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("6126cb0e8becd718dc30ad22"),
+    "name" : "Zenska majca 3",
+    "image" : "./assets/images/zm3.JPG",
+    "category" : "woman",
+    "type" : "tshirt",
+    "amount" : [ 
+        {
+            "name" : "L",
+            "amount" : 0
+        }, 
+        {
+            "name" : "M",
+            "amount" : 82
+        }, 
+        {
+            "name" : "S",
+            "amount" : 81
+        }, 
+        {
+            "name" : "XL",
+            "amount" : 96
+        }
+    ],
+    "stars" : 5.0,
+    "price" : 800.0,
+    "description" : "Pamucna majca",
+    "country" : "Srbija",
+    "slug" : "zenska-majca-3",
+    "_class" : "com.example.onlinebutik.entity.Items"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("6126cb508becd718dc30ad3b"),
+    "name" : "Zenska majca 4",
+    "image" : "./assets/images/zm4.JPG",
+    "category" : "woman",
+    "type" : "tshirt",
+    "amount" : [ 
+        {
+            "name" : "L",
+            "amount" : 33
+        }, 
+        {
+            "name" : "M",
+            "amount" : 84
+        }, 
+        {
+            "name" : "S",
+            "amount" : 80
+        }, 
+        {
+            "name" : "XL",
+            "amount" : 96
+        }
+    ],
+    "stars" : 5.0,
+    "price" : 800.0,
+    "description" : "Pamucna majca",
+    "country" : "Srbija",
+    "slug" : "zenska-majca-4",
+    "_class" : "com.example.onlinebutik.entity.Items"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("6126cb728becd718dc30ad46"),
+    "name" : "Zenska majca 5",
+    "image" : "./assets/images/zm5.JPG",
+    "category" : "woman",
+    "type" : "tshirt",
+    "amount" : [ 
+        {
+            "name" : "L",
+            "amount" : 0
+        }, 
+        {
+            "name" : "M",
+            "amount" : 84
+        }, 
+        {
+            "name" : "S",
+            "amount" : 79
+        }, 
+        {
+            "name" : "XL",
+            "amount" : 96
+        }
+    ],
+    "stars" : 4.0,
+    "price" : 800.0,
+    "description" : "Pamucna majca",
+    "country" : "Srbija",
+    "slug" : "zenska-majca-5",
+    "_class" : "com.example.onlinebutik.entity.Items"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("6126cb998becd718dc30ad5d"),
+    "name" : "Zenska majca 6",
+    "image" : "./assets/images/zm6.JPG",
+    "category" : "woman",
+    "type" : "tshirt",
+    "amount" : [ 
+        {
+            "name" : "L",
+            "amount" : 0
+        }, 
+        {
+            "name" : "M",
+            "amount" : 82
+        }, 
+        {
+            "name" : "S",
+            "amount" : 80
+        }, 
+        {
+            "name" : "XL",
+            "amount" : 93
+        }
+    ],
+    "stars" : 3.66,
+    "price" : 800.0,
+    "description" : "Pamucna majca",
+    "country" : "Srbija",
+    "slug" : "zenska-majca-6",
+    "_class" : "com.example.onlinebutik.entity.Items"
+}
